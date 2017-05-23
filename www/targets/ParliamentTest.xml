@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="new-dawn" size="10.000000 9.698376" />
+    <ImageTarget name="painting3" size="1.500000 0.986503" />
+    <ImageTarget name="painting2" size="2.000000 1.160323" />
+    <ImageTarget name="painting" size="3.000000 1.741176" />
+    <ImageTarget name="throne" size="2.000000 2.509259" />
+    <ImageTarget name="hall_tile" size="0.300000 0.279567" />
+  </Tracking>
+</QCARConfig>
